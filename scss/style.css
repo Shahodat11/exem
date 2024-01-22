@@ -422,7 +422,7 @@ main .nav-link1 .nav-link2 button {
 main .nav-link1 .nav-link2 button:hover {
   transition: all 0.3s linear;
   color: #fff;
-  background-color: #000;
+  background-color: #F72585;
 }
 main .nav-link3 {
   display: flex;
